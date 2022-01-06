@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/pritam-kumar-/), [Gmail](pritamjangidsgvu@gmail.com)
 - 😄 Pronouns: He/His
 
-![](https://github-readme-stats.vercel.app/api?username=pkjangid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1515)
+![](https://github-readme-stats.vercel.app/api?username=pkjangid&&show_icons=true&title_color=yellow&icon_color=yellow&text_color=yellow&bg_color=black)

@@ -2,6 +2,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on Auction Projects in  [Suresh Gyan vihar university jaipur](https://gyanvihar.org/) 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about Python, C++, C

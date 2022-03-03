@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 ![](https://github-readme-stats.vercel.app/api?username=pkjangid&&show_icons=true&title_color=yellow&icon_color=yellow&text_color=yellow&bg_color=black)
-!.[](https://github-readme-streak-stats.herokuapp.com/?user=pkjangid&theme=jolly)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pkjangid&theme=jolly)

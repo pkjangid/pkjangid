@@ -16,4 +16,4 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pkjangid&show_icons=true&title_color=yellow&icon_color=yellow&text_color=yellow&bg_color=black" />
 </p>
 
- file:///home/pritam/Downloads/pkjangid-2021.stl
+ [stl](file:///home/pritam/Downloads/pkjangid-2021.stl)

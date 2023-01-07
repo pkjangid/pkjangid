@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on Auction Projects in  [Suresh Gyan vihar university jaipur](https://gyanvihar.org/) 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about Python, C++, C
+- 🔭 I’m currently working on DevOps Position in  [smartSense Consulting Solutions Pvt. Ltd](https://www.smartsensesolutions.com/) 
+- 🌱 I’m currently learning **AWS & Go-Lang**
+- 💬 Ask me about AWS, GCP, Docker
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/pritam-kumar-/), [Gmail](pritamjangidsgvu@gmail.com)
 - 😄 Pronouns: He/His
 

@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on DevOps Position in  [smartSense Consulting Solutions Pvt. Ltd](https://www.smartsensesolutions.com/) 
-- 🌱 I’m currently learning **AWS & Go-Lang**
+- 🔭 I’m currently working on DevOps Position in  [CloudMinister Technologies Pvt Ltd](https://www.cloudminister.com/) 
+- 🌱 I’m expert in **AWS deployment,Go-Lang and cloud-deployment project**
 - 💬 Ask me about AWS, GCP, Docker
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/pritam-kumar-/), [Gmail](pritamjangidsgvu@gmail.com)
 - 😄 Pronouns: He/His
